@@ -19,7 +19,7 @@ def generate_password(length):
         random.choice(uppercase),
         random.choice(digits),
         random.choice(symbols)
-    ]
+    ] 
 
     for _ in range(length - 4):
         password.append(random.choice(all_characters))
