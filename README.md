@@ -19,7 +19,7 @@ This guarantees stronger and more secure passwords compared to basic random gene
 
 - Generate one or multiple passwords
 - Custom password length
-- Strong password structure
+- Strong password structure 
 - Includes uppercase, lowercase, digits, and symbols
 - Randomized and shuffled characters for better security
 
